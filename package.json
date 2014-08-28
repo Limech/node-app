@@ -1,0 +1,32 @@
+{
+  "name": "node-app",
+  "version": "0.1.0",
+  "description": "MEAN Stack Prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/limech/node-app.git"
+  },
+  "author": "Limech",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/limech/node-app/issues"
+  },
+  "homepage": "https://github.com/limech/node-app",
+  "dependencies": {
+    "body-parser": "^1.6.6",
+    "cors": "^2.4.1",
+    "express": "^4.8.5",
+    "mongoose": "^3.8.15",
+    "morgan": "^1.2.3",
+    "stylus": "^0.48.1"
+  },
+  "devDependencies": {
+    "jade": "^1.5.0",
+    "mocha": "^1.21.4",
+    "should": "^4.0.4"
+  }
+}
