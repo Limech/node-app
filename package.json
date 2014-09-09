@@ -22,7 +22,9 @@
     "express": "^4.8.5",
     "morgan": "^1.2.3",
     "nedb": "^0.11.1",
-    "stylus": "^0.48.1"
+    "prettyjson": "^1.0.0",
+    "stylus": "^0.48.1",
+    "xml2js": "^0.4.4"
   },
   "devDependencies": {
     "jade": "^1.5.0",

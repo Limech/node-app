@@ -1,0 +1,23 @@
+
+<cpotm>
+    <actionPoint id="0" name="bob">
+        <deviceA id="2">
+            <someParam>2</someParam>
+        </deviceA>
+    </actionPoint>
+    <actionPoint id="3" name="cindy">
+        <deviceA id="2">
+            <someParam>2</someParam>
+        </deviceA>
+    </actionPoint>
+    <actionPoint id="4" name="steve">
+        <deviceA id="2">
+            <someParam>2</someParam>
+        </deviceA>
+    </actionPoint>
+    <actionPoint id="8" name="mike">
+        <deviceA id="2">
+            <someParam>2</someParam>
+        </deviceA>
+    </actionPoint>
+</cpotm>
