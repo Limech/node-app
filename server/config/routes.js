@@ -8,6 +8,7 @@ module.exports = function(app) {
 */
 
     app.get('/partials/*', function (req, res) {
+        console.log('partial::'+req.params[0]);
         res.render('../../public/app/' + req.params[0]);
     });
 
@@ -17,6 +18,7 @@ module.exports = function(app) {
     });
 
     app.get('*', function (req, res) {
+        console.log('global::'+req.path);
         res.render('index');
     });
 };

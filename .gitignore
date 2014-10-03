@@ -26,3 +26,4 @@ node_modules
 .idea/workspace.xml
 public/vendor/
 plans.db
+injects.nedb
